@@ -1,1 +1,3 @@
-
+- Computer Science Engineering ( Cyber Security )
+- I use Arch btw
+- 
