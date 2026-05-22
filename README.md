@@ -1,3 +1,2 @@
-- Computer Science Engineering ( Cyber Security )
+- 3rd year CSE ( Cyber Security )
 - I use Arch btw
-- 
