@@ -1,2 +1,5 @@
-- 3rd year CSE ( Cyber Security )
-- I use Arch btw
+> _"Talk is cheap. Show me the code."_ — **Linus Torvalds**
+## About Me
+- 3<sup>rd</sup> year CSE ( Cyber Security )
+- I use linux 
+- My Gear [ Arch ](https://wiki.archlinux.org/title/Arch_Linux)
