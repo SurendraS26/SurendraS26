@@ -6,7 +6,9 @@ About me
 
 Philosophy
 ---------
-`Kiss` - Keep it simple, **Stupid**.
+- `Kiss Principle` - Keep it simple, `Stupid` - _**Simplicity**_
+- `Talk is cheap` , show me the `code` - _**Linus Torvalds**_
+
 
 <details>
 <summary>My Gear</summary>
