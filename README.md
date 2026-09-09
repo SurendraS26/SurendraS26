@@ -1,5 +1,15 @@
 About me
 --------
-- 4<sup>th</sup> Year Cyber Security Student.
+- 4<sup>th</sup> Year `Cyber Security Student`.
 - Switched to Linux ecosystem in `2017`
 - Had a Long journey from `Termux` to `Arch Linux` in 6 year's.
+
+<details>
+<summary>My Gear</summary>
+<br>
+
+- **Laptop:** LOQ 15IRX9
+- **Processor:** Intel Core i7-14700HX
+- **GPU:** NVIDIA RTX 4060 Max-Q
+
+</details>
