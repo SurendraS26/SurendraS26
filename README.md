@@ -4,12 +4,6 @@ About me
 - Entered linux world in `2017`
 - Travelled from `Termux` to `Arch Linux` , its been 6 year's.
 
-Philosophy
----------
-- `Kiss Principle` - Keep it simple, `Stupid` - _**Simplicity**_
-- `Talk is cheap` , show me the `code` - _**Linus Torvalds**_
-
-
 <details>
 <summary>My Gear</summary>
 <br>
