@@ -9,8 +9,8 @@ About me
 <br>
 
 - **Laptop:** LOQ 15IRX9
-- **Processor:** Intel Core i7-14700HX
-- **GPU:** NVIDIA RTX 4060 Max-Q
+- **Mobile:** Redmi Note 13 Pro 5G
+- **Headphones:** Boat Bassheads 900 - Wired
 
 </details>
 
