@@ -1,7 +1,5 @@
 About me
 --------
-- 4th Year `Cyber Security Student`.
-- Entered the `Linux world in 2017`.
-- Travelled from `Termux` to `Arch Linux` - 9 years.
-- I prefer `Simplicity > Complexity` 🐧
-
+- 4<sup>th</sup> Year `Cyber Security` Student.
+- On `Linux` since 2017.
+- From `Termux` to `Arch Linux` - 9 Years.
