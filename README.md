@@ -1,5 +1,5 @@
 ## About
-4<sup>th</sup> Cyber Security Student.
+- 4<sup>th</sup> Year Cyber Security Student.
 - Interests: Linux System's , Infrastructure, and Security.
 - Currently: LFS 101 · TryHackMe Top 5%.
 
@@ -15,8 +15,3 @@
 - [TrustEdge](https://github.com/SurendraS26/trustedge) — TPM-backed security framework for AI agents
 - [swtpm-arch-docker](https://github.com/SurendraS26/swtpm-arch-docker) — software TPM in a container
 - [arch-install-guide](https://github.com/SurendraS26/arch-install-guide) — Arch Linux installation walkthrough
-
-## Contact
-- GitHub: [SurendraS26](https://github.com/SurendraS26)
-- TryHackMe: [SurendraS26](https://tryhackme.com/p/SurendraS26)
-- Discord: surendras26
