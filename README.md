@@ -8,8 +8,8 @@
 - **Automation:** Ansible, Docker, Bash
 - **Security:** nmap, Wireshark, wifite, Metasploit, Snyk
 - **Languages:** Python, C, Lua, HTML
-- **Database:** [add yours, e.g. SQLite, PostgreSQL, MySQL]
-- **Tools:** Git, vim, tmux, ffmpeg, rsync, ollama, mdBook
+- **Database:** SQLite, MySQL, OracleDB.
+- **Tools:** Git, vim, tmux, ffmpeg, rsync, ollama, mdBook, glow.
 
 ## Projects
 - [TrustEdge](https://github.com/SurendraS26/trustedge) — TPM-backed security framework for AI agents
@@ -18,5 +18,5 @@
 
 ## Contact
 - GitHub: [SurendraS26](https://github.com/SurendraS26)
-- TryHackMe: [profile](link)
-- Discord: [handle]
+- TryHackMe: [SurendraS26](https://tryhackme.com/p/SurendraS26)
+- Discord: surendras26
