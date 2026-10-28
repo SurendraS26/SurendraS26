@@ -13,9 +13,10 @@
 
 **Socials**
 
-**[<kbd> <br> TryHackMe <br> </kbd>][tryhackme]**
-**[<kbd> <br> Mastodon <br> </kbd>][mastodon]**
-**[<kbd> <br> LinkedIn <br> </kbd>][linkedin]**
+[<kbd> TryHackMe <br> </kbd>][tryhackme]
+[<kbd> Mastodon <br> </kbd>][mastodon]
+[<kbd> LinkedIn <br> </kbd>][linkedin]
+[<kbd> Youtube <br> </kbd>][youtube]
  
 
 [swtpm-arch]: https://hub.docker.com/r/surendras26/swtpm-arch
@@ -23,3 +24,4 @@
 [tryhackme]: https://tryhackme.com/p/SurendraS26
 [mastodon]: https://mastodon.social/@SurendraS26
 [linkedin]: https://linkedin.com/in/SurendraS26
+[youtube]: https://youtube.com/@surendras26
