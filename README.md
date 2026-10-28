@@ -10,9 +10,7 @@
 ## Socials
 
 **[<kbd> <br> TryHackMe <br> </kbd>][tryhackme]**
-
 **[<kbd> <br> Mastodon <br> </kbd>][mastodon]**
-
 **[<kbd> <br> LinkedIn <br> </kbd>][linkedin]**
  
 
