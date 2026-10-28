@@ -5,9 +5,12 @@
 > Focused on Linux and network security
 ```
 **My Work**
+- `swtpm-arch` - <kbd>swtpm</kbd> on Arch based Docker image.
+- `trustedge` - TPM-Assisted Secure Attestation Framework for AI Agents.
+- `dotfiles` - Hyprland dotfiles for beginners.
 
 
-## Socials
+**Socials**
 
 **[<kbd> <br> TryHackMe <br> </kbd>][tryhackme]**
 **[<kbd> <br> Mastodon <br> </kbd>][mastodon]**
