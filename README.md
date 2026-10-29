@@ -1,12 +1,12 @@
 **About Me**
 ```bash
-> Cybersecurity enthusiast
-> Values simplicity over complexity
-> Focused on Linux and network security
+> I am a cyber security guy.
+> I prefer simplicity over complexity.
+> I love linux and open source software.
 ```
 
 **My Work**
-- [<kbd>swtpm-arch</kbd>][swtpm-arch] - `swtpm` on Arch based Docker image.
+- [<kbd>swtpm-arch</kbd>][swtpm-arch] - `swtpm` on Arch linux inside Docker container.
 - <kbd>trustedge</kbd> - TPM-Assisted Secure Attestation Framework for AI Agents.
 - <kbd>dotfiles</kbd> - Hyprland dotfiles for beginners.
 
