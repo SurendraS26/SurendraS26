@@ -1,9 +1,9 @@
 **About Me**
-```bash
-> I am a cyber security guy.
-> I prefer simplicity over complexity.
-> I love linux and open source software.
-```
+
+-  I am a cyber security guy.
+-  I prefer simplicity over complexity.
+-  I love linux and open source software.
+
 
 **My Work**
 - [<kbd>swtpm-arch</kbd>][swtpm-arch] - `swtpm` on Arch linux inside Docker container.
