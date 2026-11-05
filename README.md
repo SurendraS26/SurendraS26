@@ -1,8 +1,3 @@
-**About Me**
-
-- I use Arch btw!!
-
-
 **My Work**
 
 - [<kbd>swtpm-arch</kbd>][swtpm-arch] - `swtpm` on Arch linux inside Docker container.
