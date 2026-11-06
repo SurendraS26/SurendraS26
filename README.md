@@ -1,18 +1,18 @@
 **My Work**
 
-- [<kbd>swtpm-arch</kbd>][swtpm-arch] - **`swtpm`** on Arch linux inside Docker container.
-- <kbd>trustedge</kbd> - TPM-Assisted Secure Attestation Framework for AI Agents.
-- <kbd>dotfiles</kbd> - Hyprland dotfiles for beginners.
+- [<kbd>**swtpm-arch**</kbd>][swtpm-arch] - **`swtpm`** on Arch linux inside Docker container.
+- <kbd>**trustedge**</kbd> - TPM-Assisted Secure Attestation Framework for AI Agents.
+- <kbd>**dotfiles**</kbd> - Hyprland dotfiles for beginners.
 
 **Training Platforms**
 
-[<kbd> TryHackMe <br> </kbd>][tryhackme]
+[<kbd> **TryHackMe** <br> </kbd>][tryhackme]
 [<kbd> **HACK**THE**BOX** <br> </kbd>][hackthebox]
 
 **Socials**
 
-[<kbd> LinkedIn <br> </kbd>][linkedin]
-[<kbd> Mastodon <br> </kbd>][mastodon]
+[<kbd> **LinkedIn** <br> </kbd>][linkedin]
+[<kbd> **Mastodon** <br> </kbd>][mastodon]
 
  
 
