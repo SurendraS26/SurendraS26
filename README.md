@@ -3,6 +3,7 @@
 - [<kbd>**swtpm-arch**</kbd>][swtpm-arch] - **`swtpm`** on Arch linux inside Docker container.
 - <kbd>**dotfiles**</kbd> - Hyprland dotfiles for beginners.
 - <kbd>**termux-dotfiles**</kbd> - Termux dotfiles. 
+
 **Training Platforms**
 
 [<kbd> **TryHackMe** <br> </kbd>][tryhackme]
