@@ -1,4 +1,4 @@
-**My Work**
+**Projects**
 
 - [<kbd>**swtpm-arch**</kbd>][swtpm-arch] - **`swtpm`** on Arch linux inside Docker container.
 - <kbd>**trustedge**</kbd> - TPM-Assisted Secure Attestation Framework for AI Agents.
