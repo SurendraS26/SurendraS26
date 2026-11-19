@@ -12,7 +12,6 @@
 
 **Socials**
 
-[<kbd> **LinkedIn** <br> </kbd>][linkedin]
 [<kbd> **Mastodon** <br> </kbd>][mastodon]
 
  
