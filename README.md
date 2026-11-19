@@ -23,4 +23,3 @@
 [hackthebox]: https://profile.hackthebox.com/profile/019d967e-e5ae-705d-b1da-005cb1026f1a?utm_medium=copy_url 
 
 [mastodon]: https://mastodon.social/@SurendraS26
-[linkedin]: https://linkedin.com/in/SurendraS26
