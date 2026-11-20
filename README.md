@@ -8,11 +8,9 @@
 **Training Platforms**
 
 [<kbd> **TryHackMe** <br> </kbd>][tryhackme]
-[<kbd> **HACK**THE**BOX** <br> </kbd>][hackthebox]
 
 
 [swtpm-arch]: https://hub.docker.com/r/surendras26/swtpm-arch
 
 [tryhackme]: https://tryhackme.com/p/SurendraS26
-[hackthebox]: https://profile.hackthebox.com/profile/019d967e-e5ae-705d-b1da-005cb1026f1a?utm_medium=copy_url 
 
